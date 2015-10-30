@@ -1,7 +1,8 @@
 # TerminalViewBranch
 Look at your branch on your Ubuntu!
 
-Paste this stretch at the end of your file ./bashrc
+Paste this stretch at the end of your file ~/.bashrc 
+
 
 ```
 # Git branch
